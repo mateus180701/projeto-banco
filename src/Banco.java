@@ -53,6 +53,7 @@ public class Banco {
             System.out.println("3- receber um deposito: ");
             System.out.println("4- verificar se o saldo é suficiente para uma compra: ");
             System.out.println("5- encerrar operação ");
+            System.out.println("6- projeto futuro");
 
             opcao = leitura.nextInt();
 
