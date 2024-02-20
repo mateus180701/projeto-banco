@@ -91,7 +91,7 @@ public class Banco {
             }
 
           } while ( opcao != 5);
-            System.out.println("programa encerrado");
+            System.out.println("programa encerrado...");
     }
 
 
